@@ -22,6 +22,7 @@ export default function Home() {
   return (
     <main>
       <h1 className="text-3xl font-bold mb-8">Job Application Tracker</h1>
+      <p className="text-lg mb-4">Track your job applications effectively.</p>
       <JobApplicationForm 
         onSubmit={handleSubmit}
         initialData={applications.find(app => app.id === editingId)}
