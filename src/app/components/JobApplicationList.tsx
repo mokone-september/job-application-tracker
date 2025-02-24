@@ -22,7 +22,7 @@ export default function JobApplicationList({
 
   return (
     <div>
-      <div className="mb-4">
+      <div className="py-4">
         <select 
           value={filterStatus}
           onChange={(e) => setFilterStatus(e.target.value as ApplicationStatus | 'All')}
