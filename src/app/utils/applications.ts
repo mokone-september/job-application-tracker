@@ -10,10 +10,10 @@ export const jobApplicationStatus: ApplicationStatus[] = [
 export const initialApplications: JobApplication[] = [
   {
     id: 1,
-    company: 'Tech Corp',
+    company: 'Kandlehop Strander',
     position: 'Frontend Developer',
     status: 'Applied',
-    appliedDate: '2023-08-15',
+    appliedDate: '2025-02-15',
     notes: 'React experience required'
   }
 ];

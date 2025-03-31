@@ -31,7 +31,7 @@ export default function JobApplicationItem({
         <div className="flex gap-2">
           <button 
             onClick={onEdit}
-            className="px-3 py-1 text-sm text-white bg-gray-500 rounded"
+            className="px-3 py-1 text-sm text-white bg-green-500 rounded"
           >
             Edit
           </button>
