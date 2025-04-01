@@ -1,10 +1,10 @@
-### Job Application Tracker
+# Job Application Tracker
 
 To help job seekers organize, manage, and track their job applications throughout the hiring process.
 
-## Key Features & Goals
+## Features
 
-# Track Applications
+### Track Applications 
 
 Add job applications with details:
 
@@ -20,15 +20,15 @@ Add job applications with details:
 - Delete: Remove outdated entries
 - Status Management
 
-## Techinal Aim
+## Technical Aim 
 
-# Modern Web Development Practices
+### Modern Web Development Practices 
 
 - Built with Next.js 15 (App Router) for server-side rendering and optimized performance
 - TypeScript for type safety and maintainability
 - Context API for state management
 
-# Educational Value
+### Educational Value
 
 Demonstrates:
 
@@ -38,34 +38,56 @@ Demonstrates:
 - Local storage integration
 - Responsive UI with Tailwind CSS
 
-# Target Audience
+### Target Audience
 
 - Job seekers (developers, designers, etc.)
 - Career coaches
 - Recruitment agencies
 - Anyone managing multiple job applications
 
-# Key Benfits
+### Key Benfits
 
 - Organize job search efforts
 - Visualize progress through hiring stages
 - Never miss follow-ups with notes/reminders
 - Analyze patterns (e.g., which companies respond fastest)Job Application Tracker
 
-## Getting Started / Installation
+## Getting Started
 
-1. Install packages
+### Prerequisites
 
-```bash
-npm install 
-```
+- Node.js and npm installed on your machine.
 
-2. Start
+### Installation
 
-```bash
-npm run dev 
-```
+1. **Clone the repository**:
+   
+   ```bash
+   git clone https://github.com/mokone-september/job-applicaion-tracker.git
+   cd weather-app
+   ```
 
-## Contact
+2. **Install dependencies**:
+   
+   ```bash
+   npm install
+   ```
 
-[`LinkedIn`](https://www.linkedin.com/in/mokone-september)
+3. **Set up environment variables**:
+   
+   - Create a `.env` file in the root directory.
+
+
+4. **Run the app**:
+   
+   ```bash
+   npm start
+   ```
+
+5. **Open the app**:
+   
+   Visit [http://localhost:3000](http://localhost:3000) in your browser.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
