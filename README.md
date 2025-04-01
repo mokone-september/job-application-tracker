@@ -64,7 +64,7 @@ Demonstrates:
    
    ```bash
    git clone https://github.com/mokone-september/job-applicaion-tracker.git
-   cd weather-app
+   cd job-appication-tracker
    ```
 
 2. **Install dependencies**:
