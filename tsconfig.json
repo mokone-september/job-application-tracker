@@ -48,6 +48,6 @@
     "**/*.jsx",
     ".next/types/**/*.ts",
     "next-env.d.ts"
-  ],
+, "eslint.config.mjs"  ],
   "exclude": ["node_modules"]
 }
